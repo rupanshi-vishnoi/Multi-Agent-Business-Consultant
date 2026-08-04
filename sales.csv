@@ -1,0 +1,11 @@
+Order_ID,Product,Category,Sales,Profit,Quantity,Customer,City,Date
+1001,Laptop,Electronics,65000,12000,1,Rahul,Delhi,2026-01-10
+1002,Headphones,Electronics,3000,800,2,Priya,Mumbai,2026-01-12
+1003,T-Shirt,Fashion,1500,400,3,Amit,Jaipur,2026-01-15
+1004,Shoes,Fashion,2500,700,1,Neha,Lucknow,2026-01-18
+1005,Mobile,Electronics,25000,5000,1,Rohan,Delhi,2026-01-20
+1006,Watch,Accessories,4500,1000,2,Anjali,Pune,2026-01-22
+1007,Bag,Accessories,1800,500,1,Karan,Chandigarh,2026-01-25
+1008,Laptop,Electronics,70000,15000,1,Sneha,Bangalore,2026-01-28
+1009,Mouse,Electronics,800,200,4,Arjun,Noida,2026-02-02
+1010,Keyboard,Electronics,1500,350,2,Simran,Gurgaon,2026-02-05
